@@ -1,0 +1,2 @@
+It is highly suggested to download the zip files and run the codes separately as running them under same folder can be problematic.
+If problem arises in how to run the code it is suggested to read the report.
